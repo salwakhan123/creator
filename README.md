@@ -1,1 +1,1 @@
-# [play the game] (file:///C:/Users/zk464/OneDrive/Desktop/gamess/ind.html)
+# [play the game] (http:///C:/Users/zk464/OneDrive/Desktop/gamess/ind.html)
